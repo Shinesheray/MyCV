@@ -34,7 +34,14 @@ You can watch this youtube tutorial if you having any issue’s https://www.yout
 
 3.![alt text](https://github.com/Shinesheray/HyprerionDev-Task-25/blob/main/Open_with.jpeg?raw=true)
 
-* After clicking on open with live server the folder will open up a local window for you to view my portfolio
+* After clicking on open with live server the folder will open up a local window for you to view my portfolio as shown below:
+
+3.![alt text](https://github.com/Shinesheray/MyCV/blob/main/portfolio%20site.jpg?raw=true)
+
+
+* you will also be able to view my details and projects when scrolling down
+
+3.![alt text](https://github.com/Shinesheray/MyCV/blob/main/portfolio%20site2.jpg?raw=true)
  
  
 ## Credits
